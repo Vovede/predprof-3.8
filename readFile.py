@@ -38,4 +38,3 @@ def readDataFile(fname):
         # return None
     # print(data)
     return data
-

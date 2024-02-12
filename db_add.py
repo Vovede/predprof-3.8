@@ -58,4 +58,3 @@ def add_synaptic_index(temp):
         )
     )
     conn.commit()
-
