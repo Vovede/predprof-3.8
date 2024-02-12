@@ -21,3 +21,4 @@ def create_table_station_bd(synapticIndexStation):
 
 
 create_table_station_bd(f's{2000}')
+
